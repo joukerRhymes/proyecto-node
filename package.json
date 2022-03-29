@@ -10,7 +10,7 @@
     "lint:fix": "eslint \"./src/**/*.js\" --fix"
   },
   "keywords": [],
-  "author": "Isaac Aillapan",
+  "author": "Sebastian Figueroa",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
